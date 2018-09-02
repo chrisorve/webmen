@@ -614,7 +614,7 @@ h1, h2, h3, h4, h5,
 	}
 	h2{
 		color: $primary;
-		font-size: 24px;
+		font-size: 26px;
 	}
 	p{
 		color: $darken;
@@ -1100,7 +1100,7 @@ textarea.form-control {
 }
 
 .ftco-bg-dark {
-	background: #3c312e;
+	background: #39345a;
 }
 
 
@@ -1114,7 +1114,7 @@ textarea.form-control {
 		right: 0;
 		bottom: 0;
 		content: '';
-		opacity: .95;
+		opacity: .04;
 		background: $black;
 	}
 	.ftco-footer-logo {
